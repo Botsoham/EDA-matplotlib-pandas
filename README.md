@@ -48,4 +48,9 @@ The dataset is created within the Python script itself, containing **50 employee
    - Strong positive correlation between **Experience** and **Salary**.  
    - Younger employees tend to earn less, while experienced employees in Finance/IT earn more.  
 
+---
+
+## OUTPUT
+
+
 

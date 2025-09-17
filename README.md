@@ -52,5 +52,12 @@ The dataset is created within the Python script itself, containing **50 employee
 
 ## OUTPUT
 
-
+<img width="446" height="125" alt="Image" src="https://github.com/user-attachments/assets/4b610889-f9f1-4240-bc36-89e9f85fe2ae" />
+<img width="388" height="234" alt="Image" src="https://github.com/user-attachments/assets/24fd4a52-9920-4789-8143-8cd06c4d8ed3" />
+<img width="422" height="289" alt="Image" src="https://github.com/user-attachments/assets/495b12cb-17ee-4f63-8d75-3b57e8e31711" />
+<img width="256" height="69" alt="Image" src="https://github.com/user-attachments/assets/9126989e-9b6c-4b18-af5e-78b8bfff98f9" />
+<img width="666" height="447" alt="Image" src="https://github.com/user-attachments/assets/d1b2da98-ae5c-4cfd-b286-5d9b4a9563e9" />
+<img width="657" height="405" alt="Image" src="https://github.com/user-attachments/assets/d0d96463-885b-4b80-a844-6f8f626825be" />
+<img width="620" height="390" alt="Image" src="https://github.com/user-attachments/assets/55f2bd74-ec95-4a5a-804b-8cdd73b84de1" />
+<img width="615" height="449" alt="Image" src="https://github.com/user-attachments/assets/97e15826-9d41-41b5-aebc-f897d09c8ce9" />
 
